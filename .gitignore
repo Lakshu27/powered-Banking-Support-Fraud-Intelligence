@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated artifacts (regenerable by running the scripts — keeps repo small)
+data/processed/*.joblib
+data/processed/*.db
+data/processed/*.index
+data/processed/faiss_*
+data/processed/retrieval_index.joblib
+
+# Jupyter
+.ipynb_checkpoints/
+
+# API keys — never commit these
+.env
+*.key
+
+# OS
+.DS_Store

@@ -1,0 +1,13 @@
+pandas>=2.0
+matplotlib>=3.7
+jupyter>=1.0
+nbformat>=5.9
+scikit-learn>=1.3
+joblib>=1.3
+streamlit>=1.30
+anthropic>=0.25   # optional -- only needed if ANTHROPIC_API_KEY is set for LLM generation
+groq>=0.11        # optional -- free tier, no card required; used if GROQ_API_KEY is set (tried before Anthropic)
+
+# Optional upgrades (see README "Optional upgrades" section)
+sentence-transformers>=3.0   # for src/rag_pipeline_faiss.py
+faiss-cpu>=1.8                # for src/rag_pipeline_faiss.py

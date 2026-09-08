@@ -1,0 +1,64 @@
+KYC & AML POLICY — CUSTOMER DUE DILIGENCE
+Version 5.1 | Effective: 01-Apr-2024
+Issuing Authority: Chief Compliance Officer
+
+1. REGULATORY FRAMEWORK
+This policy is governed by:
+  - Prevention of Money Laundering Act (PMLA) 2002
+  - RBI Master Direction on KYC (2016, updated 2023)
+  - FATF Recommendations
+  - Foreign Exchange Management Act (FEMA) 1999
+
+2. CUSTOMER IDENTIFICATION REQUIREMENTS
+2.1 Officially Valid Documents (OVDs) for Individuals:
+  - Aadhaar (mandatory for resident Indians)
+  - Passport
+  - Driving Licence
+  - Voter's Identity Card
+  - NREGA Job Card
+  - PAN Card (for financial transactions > ₹50,000)
+
+2.2 Documents for Non-Individuals (Companies/Firms):
+  - Certificate of Incorporation
+  - Memorandum and Articles of Association
+  - Board Resolution
+  - PAN of entity and all directors/partners
+  - Proof of registered office address
+
+3. KYC CATEGORIES
+3.1 Simplified KYC: Applicable for low-risk accounts with annual credit < ₹1L.
+3.2 Full KYC: Mandatory for all other accounts. Requires OVD + photograph.
+3.3 Enhanced Due Diligence (EDD): Mandatory for PEP, NRI, high-value, high-risk customers.
+
+4. PERIODIC KYC REVIEW
+4.1 High Risk customers: Every 2 years
+4.2 Medium Risk customers: Every 8 years
+4.3 Low Risk customers: Every 10 years
+4.4 NRI accounts: Annual review mandatory
+4.5 Dormant accounts: Full KYC on reactivation
+
+5. VIDEO-BASED CUSTOMER IDENTIFICATION PROCESS (V-CIP)
+5.1 Customer must be physically present for live video interaction.
+5.2 Liveliness check mandatory — static image not accepted.
+5.3 Facial match with OVD photograph to be conducted.
+5.4 Agent must verify document details live on screen.
+5.5 Session to be recorded and stored for 5 years.
+5.6 Geolocation of customer to be captured during V-CIP.
+
+6. CONSEQUENCES OF NON-COMPLIANCE
+6.1 Account to be restricted: No credits/debits above ₹10,000.
+6.2 Freeze after 6 months of pending KYC.
+6.3 Account closure after 12 months if KYC not completed.
+6.4 Regulatory reporting to Financial Intelligence Unit (FIU-IND).
+
+7. CUSTOMER RIGHTS
+7.1 Right to be informed of KYC requirements at account opening.
+7.2 Right to update KYC information at any branch.
+7.3 Right to appeal account freeze decision within 30 days.
+7.4 Right to receive a copy of submitted documents.
+
+8. STAFF OBLIGATIONS
+8.1 Never photocopy OVDs without customer consent.
+8.2 Mask Aadhaar number (last 4 digits only) in records.
+8.3 Report suspicious customers to Compliance immediately.
+8.4 Maintain customer confidentiality as per IT Act 2000.

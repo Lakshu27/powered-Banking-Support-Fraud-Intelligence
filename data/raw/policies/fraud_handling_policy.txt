@@ -1,0 +1,73 @@
+FRAUD HANDLING POLICY — RETAIL BANKING
+Version 3.2 | Effective: 01-Jan-2024
+Issuing Authority: Chief Risk Officer
+
+1. SCOPE
+This policy applies to all unauthorized transactions, card fraud, UPI fraud, net banking fraud, and identity theft cases reported by retail banking customers.
+
+2. DEFINITIONS
+2.1 Unauthorized Transaction: Any debit from a customer account not initiated or authorized by the account holder.
+2.2 Card-Present Fraud: Fraudulent transaction using physical card at POS or ATM.
+2.3 Card-Not-Present (CNP) Fraud: Online or MOTO transactions without physical card.
+2.4 Account Takeover: Unauthorized access to customer banking credentials.
+
+3. CUSTOMER REPORTING PROCESS
+3.1 Customers must report unauthorized transactions within 72 hours via:
+   - Toll-free helpline: 1800-XXX-XXXX (24x7)
+   - Mobile banking application → Report Fraud
+   - Nearest branch
+   - Written complaint to nodal officer
+3.2 Zero Liability applies if customer reports within 3 working days of unauthorized transaction.
+3.3 For delay of 4-7 days: Customer liability limited to ₹10,000.
+3.4 Beyond 7 days: Customer liability as per transaction amount, subject to investigation.
+
+4. BANK RESPONSE SLA
+4.1 Acknowledgement: Within 1 working hour of complaint.
+4.2 Card/Account Block: Immediately on customer request, within 30 minutes.
+4.3 Provisional Credit: Within 10 working days for CNP fraud.
+4.4 Investigation completion: 30-45 working days.
+4.5 Final Resolution: Refund or rejection notice within 45 working days.
+
+5. RISK CLASSIFICATION
+HIGH RISK — Immediate escalation required:
+  - Transaction amount > ₹50,000
+  - Multiple fraudulent transactions
+  - Suspected SIM swap or phishing
+  - Cross-border fraudulent transactions
+  - Account takeover attempt
+
+MEDIUM RISK — Senior agent review:
+  - Transaction amount ₹10,000–₹50,000
+  - Single unauthorized recurring charge
+  - Merchant dispute
+
+LOW RISK — Standard agent handling:
+  - Transaction amount < ₹10,000
+  - Suspected duplicate charge
+  - Subscription dispute
+
+6. MANDATORY ACTIONS FOR HIGH-RISK CASES
+6.1 Block all payment instruments immediately.
+6.2 Reset net banking and mobile banking credentials.
+6.3 Notify fraud risk team within 1 hour.
+6.4 File SAR (Suspicious Activity Report) with FIU-IND if amount > ₹5L.
+6.5 Preserve all logs and transaction records for 7 years.
+6.6 Initiate chargeback with acquiring bank within 24 hours for card fraud.
+
+7. CHARGEBACK PROCESS
+7.1 First Presentment: Bank sends dispute to merchant's acquirer.
+7.2 Merchant Response: Merchant has 30 days to respond.
+7.3 Pre-Arbitration: If merchant rejects, bank files pre-arbitration.
+7.4 Arbitration: Final resolution by card network (Visa/Mastercard/RuPay).
+
+8. CUSTOMER COMMUNICATION STANDARDS
+8.1 Acknowledge within 1 working hour.
+8.2 Provide unique complaint reference number.
+8.3 Update customer every 7 days on investigation progress.
+8.4 Never ask customer to share OTP, PIN, or CVV over phone or email.
+8.5 Use empathetic language; customer is a victim.
+
+9. REGULATORY COMPLIANCE
+9.1 RBI Master Direction on Limiting Liability of Customers (2017) applies.
+9.2 All fraud cases > ₹1 crore to be reported to RBI within 24 hours.
+9.3 Quarterly fraud MIS to be submitted to Board Risk Committee.

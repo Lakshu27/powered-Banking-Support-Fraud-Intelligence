@@ -1,0 +1,43 @@
+REFUND & DISPUTE RESOLUTION POLICY
+Version 2.3 | Effective: 15-Mar-2024
+Issuing Authority: Head of Customer Experience
+
+1. SCOPE
+This policy covers disputes related to:
+  - Failed transactions (amount debited, not credited to beneficiary)
+  - Duplicate charges
+  - Merchant disputes (goods/services not received)
+  - ATM cash-not-dispensed complaints
+  - UPI failure reversals
+
+2. AUTO-REVERSAL TIMELINES (RBI Mandate)
+2.1 UPI failed transactions: Auto-reversal within T+1 business day
+2.2 IMPS failed transactions: Auto-reversal within T+1 business day
+2.3 NEFT failed transactions: Auto-reversal within 2 hours on same day / next working day
+2.4 Card declined transactions: Immediate (no amount deducted)
+2.5 ATM cash-not-dispensed: T+5 working days auto-credit (₹100/day penalty if delayed)
+
+3. MERCHANT DISPUTE PROCESS
+3.1 Customer raises dispute within 30 days of transaction.
+3.2 Bank raises chargeback with card network within 5 days.
+3.3 Provisional credit within 10 working days (amounts > ₹1,000).
+3.4 If merchant provides valid proof: Chargeback rejected, provisional credit reversed.
+3.5 Final resolution within 45 working days.
+
+4. REFUND MODES
+4.1 Original payment mode preferred (card refund to card, UPI to source account).
+4.2 NEFT if original mode unavailable.
+4.3 Cheque in exceptional cases (account closed, etc.).
+4.4 No cash refunds above ₹2,000.
+
+5. ESCALATION MATRIX
+5.1 Frontline Agent: Handle standard disputes (< ₹10,000, < 30 days old).
+5.2 Senior Agent: Disputes ₹10,000–₹1,00,000 or > 30 days.
+5.3 Nodal Officer: > ₹1,00,000 or unresolved after 15 days.
+5.4 Grievance Redressal Officer: Legal notices, media complaints, ombudsman cases.
+
+6. CUSTOMER COMPENSATION
+6.1 If ATM delay > 5 days: ₹100 per day credited automatically.
+6.2 If bank error causes loss: Full amount + 2% per annum interest from transaction date.
+6.3 NEFT/RTGS wrong credit (bank error): Full refund within 2 working days.
+6.4 NACH mandate wrong debit: Refund + ₹500 compensation per incident.

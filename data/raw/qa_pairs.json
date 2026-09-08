@@ -1,0 +1,182 @@
+[
+  {
+    "id": "QA001",
+    "category": "Fraud",
+    "question": "I noticed an unauthorized transaction of ₹15,000 on my account. What should I do?",
+    "answer": "Please report immediately via our 24x7 helpline or mobile app. We will block your card, raise a dispute, and if reported within 3 working days, you have zero liability under RBI guidelines. A provisional credit will be issued within 10 working days.",
+    "policy_ref": "Fraud Handling Policy §3, §4",
+    "risk_level": "High",
+    "suggested_action": "Block card, raise dispute, escalate to fraud team"
+  },
+  {
+    "id": "QA002",
+    "category": "Fraud",
+    "question": "How long does fraud investigation take?",
+    "answer": "Fraud investigations are completed within 30-45 working days. You will receive updates every 7 days. A provisional credit may be applied within 10 working days for eligible cases.",
+    "policy_ref": "Fraud Handling Policy §4",
+    "risk_level": "Medium",
+    "suggested_action": "Update customer with reference number"
+  },
+  {
+    "id": "QA003",
+    "category": "Fraud",
+    "question": "Someone used my OTP to transfer money. Can I get a refund?",
+    "answer": "If the OTP was shared voluntarily, liability may apply per RBI guidelines. If it was obtained through phishing/vishing, report immediately. Our fraud team will investigate. Account access will be suspended immediately for safety.",
+    "policy_ref": "Fraud Handling Policy §3.2, §6",
+    "risk_level": "High",
+    "suggested_action": "Suspend account access, escalate to fraud team, advise FIR"
+  },
+  {
+    "id": "QA004",
+    "category": "Fraud",
+    "question": "Multiple small transactions are showing up that I didn't make",
+    "answer": "Multiple micro-transactions could indicate card skimming or credential compromise. Your card will be blocked immediately. A new card will be dispatched and a police complaint (FIR) will be filed on your behalf. Please do not use existing card.",
+    "policy_ref": "Fraud Handling Policy §5 High Risk",
+    "risk_level": "High",
+    "suggested_action": "Block card, dispatch new card, file FIR"
+  },
+  {
+    "id": "QA005",
+    "category": "Fraud",
+    "question": "I received an OTP I didn't request. Is my account safe?",
+    "answer": "An unrequested OTP could indicate a fraud attempt or SIM swap. Your account has been placed under temporary hold. Please change your mobile banking PIN immediately and visit the nearest branch with ID proof.",
+    "policy_ref": "Fraud Handling Policy §5, §6.2",
+    "risk_level": "High",
+    "suggested_action": "Suspend account, advise branch visit, reset credentials"
+  },
+  {
+    "id": "QA006",
+    "category": "Loan",
+    "question": "What is the minimum CIBIL score required for a personal loan?",
+    "answer": "The minimum CIBIL score for a personal loan is 720. A higher score may qualify you for better interest rates ranging from 10.5% to 18% p.a. If your score is below 720, we recommend clearing existing dues and reapplying after 6 months.",
+    "policy_ref": "Loan Processing Policy §2.2",
+    "risk_level": "Low",
+    "suggested_action": "Share eligibility criteria, suggest credit improvement steps"
+  },
+  {
+    "id": "QA007",
+    "category": "Loan",
+    "question": "How long will my home loan take to get approved?",
+    "answer": "Home loan processing takes 15-21 working days after complete document submission. This includes legal verification of property documents, technical appraisal, and credit assessment. Pre-approved customers may receive faster processing.",
+    "policy_ref": "Loan Processing Policy §4.3",
+    "risk_level": "Low",
+    "suggested_action": "Share document checklist, set timeline expectation"
+  },
+  {
+    "id": "QA008",
+    "category": "Loan",
+    "question": "Can I foreclose my floating rate home loan without charges?",
+    "answer": "Yes. As per RBI guidelines, there are no foreclosure charges on floating rate home loans. You only need to pay the outstanding principal plus accrued interest up to the foreclosure date. A no-dues certificate will be issued within 7 working days.",
+    "policy_ref": "Loan Processing Policy §7.1",
+    "risk_level": "Low",
+    "suggested_action": "Calculate outstanding amount, process foreclosure request"
+  },
+  {
+    "id": "QA009",
+    "category": "Loan",
+    "question": "My loan application was rejected. What can I do?",
+    "answer": "A rejection letter with specific reasons will be issued within 3 working days. Common reasons include low credit score, insufficient income, or document deficiency. Based on the reason, we can guide you on adding a co-applicant, improving your credit profile, or reapplying for a lower amount.",
+    "policy_ref": "Loan Processing Policy §6",
+    "risk_level": "Low",
+    "suggested_action": "Share rejection reasons, provide improvement guidance"
+  },
+  {
+    "id": "QA010",
+    "category": "Loan",
+    "question": "I lost my job. Can I pause my loan EMIs?",
+    "answer": "Yes, we have EMI moratorium options. We can evaluate a restructuring request under RBI guidelines. Please visit your nearest branch with employment separation letter. An EMI holiday of up to 3 months may be granted with interest capitalized during the period.",
+    "policy_ref": "Loan Processing Policy — Restructuring clause",
+    "risk_level": "High",
+    "suggested_action": "Initiate restructuring request, connect to relationship manager"
+  },
+  {
+    "id": "QA011",
+    "category": "KYC",
+    "question": "Why is my account restricted? I submitted KYC documents last week.",
+    "answer": "Documents may be pending verification (typically 48 hours). If submitted online, please also confirm via the branch. If restrictions persist beyond 48 hours, please call our helpline with your complaint reference number for priority processing.",
+    "policy_ref": "KYC Policy §6.1",
+    "risk_level": "Medium",
+    "suggested_action": "Check document status, escalate if pending > 48 hours"
+  },
+  {
+    "id": "QA012",
+    "category": "KYC",
+    "question": "My Aadhaar name and bank name don't match. How do I fix this?",
+    "answer": "A name mismatch requires physical branch visit. Please bring a gazette notification or court affidavit for name correction. Alternatively, submit a written request with supporting documents. The update will be processed within 5 working days.",
+    "policy_ref": "KYC Policy §2.1",
+    "risk_level": "Medium",
+    "suggested_action": "Guide to branch, request gazette notification or affidavit"
+  },
+  {
+    "id": "QA013",
+    "category": "KYC",
+    "question": "What documents do I need for KYC?",
+    "answer": "For individuals: Aadhaar card (mandatory), PAN card (for transactions above ₹50,000), and a recent photograph. For enhanced accounts, additional address proof may be required. NRI customers need a valid passport and overseas address proof.",
+    "policy_ref": "KYC Policy §2.1",
+    "risk_level": "Low",
+    "suggested_action": "Share document checklist based on account type"
+  },
+  {
+    "id": "QA014",
+    "category": "KYC",
+    "question": "How often do I need to update my KYC?",
+    "answer": "KYC refresh frequency depends on your risk category: High-risk customers every 2 years, Medium-risk every 8 years, Low-risk every 10 years. NRI accounts require annual review. You will receive an advance notification before your KYC expires.",
+    "policy_ref": "KYC Policy §4",
+    "risk_level": "Low",
+    "suggested_action": "Share KYC review schedule, send reminder"
+  },
+  {
+    "id": "QA015",
+    "category": "Account Access",
+    "question": "I'm locked out of my net banking. How do I regain access?",
+    "answer": "Net banking access is temporarily suspended after 3 failed login attempts. You can reset access by: (1) Generating new IPIN at ATM, (2) Calling our IVR helpline, or (3) Visiting nearest branch with ID proof. Access is restored immediately upon successful PIN reset.",
+    "policy_ref": "Account Access Policy",
+    "risk_level": "Low",
+    "suggested_action": "Guide through IPIN reset steps"
+  },
+  {
+    "id": "QA016",
+    "category": "Account Access",
+    "question": "My salary hasn't been credited even though it's the 5th",
+    "answer": "Salary delays may be due to employer's payroll batch timing or bank holidays. Please check with your HR/payroll team first. If the employer has processed payment but amount not credited by EOD, raise a complaint and we will trace the NEFT/RTGS transaction.",
+    "policy_ref": "Standard account operations",
+    "risk_level": "Low",
+    "suggested_action": "Advise HR check first, trace NEFT if needed"
+  },
+  {
+    "id": "QA017",
+    "category": "Fraud",
+    "question": "I got a call from someone claiming to be from the bank asking for my CVV",
+    "answer": "This is a vishing (voice phishing) attempt. Our bank NEVER asks for CVV, OTP, or PIN over phone or email. Do not share any information. Report this number to our fraud helpline immediately. Your account will be monitored for unusual activity.",
+    "policy_ref": "Fraud Handling Policy §8.4",
+    "risk_level": "High",
+    "suggested_action": "Alert fraud monitoring, log caller number, advise customer"
+  },
+  {
+    "id": "QA018",
+    "category": "Account Access",
+    "question": "Can I open a joint account with my spouse?",
+    "answer": "Yes. Both account holders must visit the branch with PAN, Aadhaar, and passport-size photographs. You can choose the operational mode: Either or Survivor (most common), Former or Survivor, or Jointly. The process takes 1-2 working days.",
+    "policy_ref": "Account Opening Policy",
+    "risk_level": "Low",
+    "suggested_action": "Guide to branch with checklist"
+  },
+  {
+    "id": "QA019",
+    "category": "Loan",
+    "question": "What is the maximum education loan I can get for studying abroad?",
+    "answer": "Education loans for overseas studies are available up to ₹40 lakh. A moratorium applies during the study period plus 6 months after course completion. Interest rates range from 8.5% to 12% p.a. Eligible courses include those at recognized universities abroad with admission proof.",
+    "policy_ref": "Loan Processing Policy §1.4",
+    "risk_level": "Low",
+    "suggested_action": "Share application checklist, connect to education loan specialist"
+  },
+  {
+    "id": "QA020",
+    "category": "KYC",
+    "question": "My video KYC keeps failing. What should I do?",
+    "answer": "V-CIP failures are often due to poor lighting, internet connectivity, or document quality. Try: (1) Use a well-lit area, (2) Ensure stable 4G/WiFi connection, (3) Keep Aadhaar clearly visible. If issues persist, a fresh V-CIP link will be sent, or visit branch for physical KYC.",
+    "policy_ref": "KYC Policy §5",
+    "risk_level": "Low",
+    "suggested_action": "Re-send V-CIP link, suggest branch as fallback"
+  }
+]
